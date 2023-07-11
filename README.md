@@ -1,2 +1,2 @@
 # JavaSampleRepo
-Demo for including eclipse to github
+Complete java programs which I learn during My journey of java programming
